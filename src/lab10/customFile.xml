@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<list>
+    <country>
+        <name>Куба</name>
+        <capital>Гавана</capital>
+        <continent>Южная Америка</continent>
+        <area>114524</area>
+        <population>10600000</population>
+    </country>
+    <country>
+        <name>Соединеные Штаты Америки</name>
+        <capital>Вашингтон</capital>
+        <continent>Южная Америка</continent>
+        <area>9363130</area>
+        <population>429200000</population>
+    </country>
+    <country>
+        <name>Мексика</name>
+        <capital>Мексика Сити</capital>
+        <continent>Южная Америка</continent>
+        <area>1967180</area>
+        <population>88600000</population>
+    </country>
+    <country>
+        <name>Чили</name>
+        <capital>Сантьяго</capital>
+        <continent>Северная Америка</continent>
+        <area>756943</area>
+        <population>13200000</population>
+    </country>
+    <country>
+        <name>Канада</name>
+        <capital>Оттава</capital>
+        <continent>Северная Америка</continent>
+        <area>9976147</area>
+        <population>26500000</population>
+    </country>
+</list>
